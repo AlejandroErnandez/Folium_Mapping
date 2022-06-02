@@ -1,2 +1,2 @@
 # Folium_Mapping
-Base mapping with Folium library
+Base mapping with Folium library for Python
